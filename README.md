@@ -4,13 +4,13 @@ réalisation du site VillageGreen
 
 # Mise en place de la base de données
 
--Création de la base de données 
+- Création de la base de données 
 
-*script de création de la base de données;
+* script de création de la base de données;
 
-*script de sécurité de la base;
+* script de sécurité de la base;
 
-*sript de gestion des utilisateurs(profil visiteur,profil client, profil gestion et profil administrateur;
+* sript de gestion des utilisateurs(profil visiteur,profil client, profil gestion et profil administrateur;
 
 - Jeu de test 
 
