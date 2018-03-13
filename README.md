@@ -14,7 +14,9 @@ réalisation du site VillageGreen
 
 - Jeu de test 
 
-# mise en place de la base de données sur Microsoft SQL Management Studio
+- Création d'un script de sauvegarde-restauration des données
+
+- mise en place de la base de données sur Microsoft SQL Management Studio
 
 # Développement des composant d'accès aux données
 
