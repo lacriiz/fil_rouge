@@ -1,10 +1,11 @@
 
 
-			-- creation de la base de données fil rouge --
+			-- creation de la base de donnÃ©es fil rouge --
 
 create database fil_rouge
+go
 
-
+use fil_rouge
 
 create table facturation(
 fac_numero INTEGER NOT NULL IDENTITY PRIMARY KEY,
