@@ -1,0 +1,5 @@
+C:\Users\Laurent\Documents\Visual Studio 2017\Projects\fil_rouge\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Laurent\Documents\Visual Studio 2017\Projects\fil_rouge\WindowsFormsApp1\obj\Debug\fil_rouge.Form1.resources
+C:\Users\Laurent\Documents\Visual Studio 2017\Projects\fil_rouge\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Laurent\Documents\Visual Studio 2017\Projects\fil_rouge\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Laurent\Documents\Visual Studio 2017\Projects\fil_rouge\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
