@@ -10,7 +10,7 @@ Réalisation du site VillageGreen
 
    *script de sécurité de la base;
    
-   *sript de gestion des utilisateurs(profil visiteur,profil client, profil gestion et profil administrateur);
+   *script de gestion des utilisateurs(profil visiteur,profil client, profil gestion et profil administrateur);
 
 - Jeu de test 
 - Création d'un script de sauvegarde-restauration des données
